@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrey</h1>
-<h3 align="center">Person, who likes to work with Big Data (Java, Python, Scala)</h3>
+<h3 align="center">Person, who like to work with Big Data (Java, Python, Scala)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roomanidzee&label=Profile%20views&color=0e75b6&style=flat" alt="roomanidzee" /> </p>
 
